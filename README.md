@@ -6,9 +6,13 @@ Atuando há mais de 10 anos na gestão de processos e análise de dados, tenho e
 
 Meu foco está na tomada de decisões orientada por dados, aplicando ferramentas analíticas para transformar informações brutas em insights estratégicos.
 
+🌱 Atualmente estou aprendendo:
+Cursando certificação - Analista de dados associado em SQL (40h), DataCamp
+Cursando certificação - Analista de dados associado em Python(40h), DataCamp
+
 🔧 Tecnologias & Ferramentas
 
-💻 Linguagens: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)|![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+💻 Linguagens: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 
 📊 Análise de Dados & BI: Power BI | Google Data Studio | Excel Avançado
 
@@ -39,7 +43,7 @@ Sempre buscando novos desafios, aprendizado contínuo e compartilhando conhecime
 📧 E-mail: andreschuenck@email.com
 
 Se tiver sugestões, quiser colaborar ou trocar ideias sobre projetos, entre em contato! 🚀
-
+- ⚡ Fun fact: ...
 
 <!--
 **andreschuenck/andreschuenck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
