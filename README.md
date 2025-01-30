@@ -33,7 +33,7 @@ Atuando há mais de 10 anos na gestão de processos e análise de dados, tenho e
 Sempre buscando novos desafios, aprendizado contínuo e compartilhando conhecimento.
 
 📫 Vamos Conectar?
-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20">
+- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20">: https://www.linkedin.com/in/andreschuenck/
 - 📊 Portfólio: EM CONSTRUÇÂO
 - 📧 E-mail: andreschuenck@email.com
 
