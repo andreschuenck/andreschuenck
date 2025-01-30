@@ -1,7 +1,5 @@
 👋 Olá! Bem-vindo! (Em construção) 
 
-🚀 Profissional de Gestão & Dados | Especialista em Processos e Análise Estratégica
-
 Atuando há mais de 10 anos na gestão de processos e análise de dados, tenho experiência prática na automação de processos produtivos, otimização de fluxos de trabalho e digitalização de operações. Atualmente, curso um MBA em Engenharia de Dados (UFRJ), aprofundando meus conhecimentos em SQL, Python, BI e Governança de Dados. Meu foco está na tomada de decisões orientada por dados, aplicando ferramentas analíticas para transformar informações brutas em insights estratégicos.
 
 🌱 Atualmente estou aprendendo:
