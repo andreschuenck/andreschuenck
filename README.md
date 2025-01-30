@@ -7,10 +7,7 @@ Atuando há mais de 10 anos na gestão de processos e análise de dados, tenho e
 - Cursando certificação - Analista de dados associado em Python(40h), DataCamp
 
 🔧 Tecnologias & Ferramentas
-- 💻 Linguagens: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-- 💻 Linguagens:  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">  
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" height="25">
+- 💻 Linguagens:  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20">  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" height="20">
 
 - 📊 Análise de Dados & BI: Power BI | Google Data Studio | Excel Avançado
 - ⚙️ Banco de Dados: SQL Server | PostgreSQL | MySQL
