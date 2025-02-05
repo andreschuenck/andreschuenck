@@ -42,7 +42,7 @@ Se tiver sugestões, quiser colaborar ou trocar ideias sobre projetos, entre em 
 ⚡ Curiosidades Sobre Mim: 
 - Além do mundo dos dados e tecnologia, também sou apaixonado por histórias épicas e desafios estratégicos. 📚🎲
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=andreschuenck.andreschuenck&style=for-the-badge&logo=github&logoColor=white&height=20)
+![Visitor Count](https://profile-counter.glitch.me/andreschuenck/count.svg)
 
  🏰 Leitor ávido de livros medievais e fantasia, sempre explorando mundos repletos de heróis, mistérios e batalhas épicas.
  🎲 Jogador de D&D, porque nada como enfrentar dragões e desvendar masmorras para exercitar o pensamento estratégico!
