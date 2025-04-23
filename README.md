@@ -6,13 +6,17 @@
 
 ## 👋 Sobre Mim
 
-Profissional com mais de 10 anos de experiência em gestão de processos e análise de dados, especializado na transformação de dados em insights estratégicos. Atualmente cursando MBA em Engenharia de Dados (UFRJ), com foco em SQL, Python, Business Intelligence e Governança de Dados.
+Profissional analítico com mais de 7 anos em otimização de processos e automação de dados, transformando informações complexas em soluções estratégicas. Desenvolvo dashboards, fluxos ETL e automatizações que eliminam trabalho manual e aumentam a eficiência operacional. Comunico conceitos técnicos com clareza com experiência em palestras e workshops para diversos públicos, aprendo rapidamente novas tecnologias, trabalho efetivamente em equipes multidisciplinares e contribuo como voluntário em projetos sociais.
 
-Minha expertise inclui:
-- Automação de processos produtivos e otimização de fluxos de trabalho
-- Análise de dados para tomada de decisões orientada por dados
-- Digitalização de operações e implementação de soluções tecnológicas
-- Desenvolvimento de dashboards e KPIs para monitoramento de performance
+Habilidades Comportamentais:
+
+Raciocínio lógico e pensamento analítico
+Comunicação eficaz de insights técnicos para públicos não-técnicos
+Trabalho em equipe multidisciplinar
+Adaptabilidade e rápido aprendizado
+Resolução de problemas complexos
+Tomada de decisão baseada em dados
+
 
 ## 🚀 Habilidades Técnicas
 
