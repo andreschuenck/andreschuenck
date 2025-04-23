@@ -1,56 +1,99 @@
-👋 Olá! Bem-vindo! (Em construção) 
+# André Schuenck
 
-Atuando há mais de 10 anos na gestão de processos e análise de dados, tenho experiência prática na automação de processos produtivos, otimização de fluxos de trabalho e digitalização de operações. Atualmente, curso um MBA em Engenharia de Dados (UFRJ), aprofundando meus conhecimentos em SQL, Python, BI e Governança de Dados. Meu foco está na tomada de decisões orientada por dados, aplicando ferramentas analíticas para transformar informações brutas em insights estratégicos.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreschuenck/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/andreschuenck?tab=repositories)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreschuenck@email.com)
 
-🌱 Atualmente estou aprendendo:
-- Cursando certificação - Analista de dados associado em SQL (40h), DataCamp
-- Cursando certificação - Analista de dados associado em Python(40h), DataCamp
+## 👋 Sobre Mim
 
-🔧 Tecnologias & Ferramentas  
+Profissional com mais de 10 anos de experiência em gestão de processos e análise de dados, especializado na transformação de dados em insights estratégicos. Atualmente cursando MBA em Engenharia de Dados (UFRJ), com foco em SQL, Python, Business Intelligence e Governança de Dados.
 
-- 💻 Linguagens:  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20">    <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" height="20">  
+Minha expertise inclui:
+- Automação de processos produtivos e otimização de fluxos de trabalho
+- Análise de dados para tomada de decisões orientada por dados
+- Digitalização de operações e implementação de soluções tecnológicas
+- Desenvolvimento de dashboards e KPIs para monitoramento de performance
 
-- 📊 Análise de Dados & BI:  
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" height="20">    <img src="https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=for-the-badge&logo=google%20analytics&logoColor=white" height="20">    <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="20">  
+## 🚀 Habilidades Técnicas
 
-- ⚙️ Banco de Dados:  
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="20">    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="20">    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="20">  
+### 💻 Linguagens de Programação
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-- 🔄 ETL & Processamento de Dados:  
-  <img src="https://img.shields.io/badge/Data%20Lake-025E8C?style=for-the-badge&logo=databricks&logoColor=white" height="20">    <img src="https://img.shields.io/badge/Map%20Reduce-F37626?style=for-the-badge&logo=apache&logoColor=white" height="20">    <img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logo=amazon-s3&logoColor=white" height="20">  
+### 📊 Análise de Dados & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Google Data Studio](https://img.shields.io/badge/Google_Data_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-- 📜 Metodologias & Gestão:  
-  <img src="https://img.shields.io/badge/Lean%20Manufacturing-0071C5?style=for-the-badge&logo=leanpub&logoColor=white" height="20">    <img src="https://img.shields.io/badge/Six%20Sigma-000000?style=for-the-badge&logo=six-sigma&logoColor=white" height="20">    <img src="https://img.shields.io/badge/Kanban-009688?style=for-the-badge&logo=trello&logoColor=white" height="20">    <img src="https://img.shields.io/badge/PDCA-4CAF50?style=for-the-badge&logo=processwire&logoColor=white" height="20">  
+### ⚙️ Banco de Dados
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 🔄 ETL & Processamento de Dados
+![Data Lake](https://img.shields.io/badge/Data_Lake-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![MapReduce](https://img.shields.io/badge/MapReduce-FF6F00?style=for-the-badge&logo=apache&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-00C7B7?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
-📌 O que você encontra aqui?
-- 🔹 Projetos de Análise de Dados e Business Intelligence 📊 (Dashboards, KPIs e Visualizações de Dados)
-- 🔹 Automação de Processos e Otimização de Fluxos de Trabalho ⚡ (Redução de desperdícios e melhoria operacional)
-- 🔹 Modelagem de Dados e Governança 🏢 (Banco de Dados Relacional, Data Warehousing, Data Lakes)
-- 🔹 Projetos Hands-on em SQL e Python 🖥️ (Extração, Tratamento e Análise de Dados)
+### 📜 Metodologias & Gestão
+![Lean Manufacturing](https://img.shields.io/badge/Lean-00B388?style=for-the-badge&logo=lean&logoColor=white)
+![Six Sigma](https://img.shields.io/badge/Six_Sigma-000000?style=for-the-badge&logo=six-sigma&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![PDCA](https://img.shields.io/badge/PDCA-2496ED?style=for-the-badge&logo=circleci&logoColor=white)
 
-Sempre buscando novos desafios, aprendizado contínuo e compartilhando conhecimento.
+## 📈 Projetos em Destaque
 
-📫 Vamos Conectar?
-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"> https://www.linkedin.com/in/andreschuenck/
-- 📊 Portfólio: EM CONSTRUÇÂO
-- 📧 E-mail: andreschuenck@email.com
+### [Análise de Dados Industriais](https://github.com/andreschuenck/Portfolio-Data-Analysis-1)
+Projeto de análise de dados de produção industrial para otimização de processos e identificação de melhorias. Utilizando dados sintéticos de produção, calculei KPIs como Lead Time, Tempo de Setup e Eficiência de Produção.
+
+**Tecnologias:** Python, Pandas, Matplotlib/Seaborn
+
+### [Projeto de Análise de Vendas (Em Desenvolvimento)](https://github.com/andreschuenck)
+Análise de dados de vendas para identificação de padrões e tendências, com foco em previsão de demanda e otimização de estoque.
+
+**Tecnologias:** SQL, Python, Power BI
+
+### [Dashboard de Performance Operacional (Em Desenvolvimento)](https://github.com/andreschuenck)
+Desenvolvimento de dashboard interativo para monitoramento em tempo real de indicadores de performance operacional.
+
+**Tecnologias:** Power BI, SQL, ETL
+
+## 🌱 Aprendizado Contínuo
+
+Atualmente estou aprimorando minhas habilidades em:
+
+- 📊 Certificação - Analista de dados associado em SQL (40h), DataCamp
+- 🐍 Certificação - Analista de dados associado em Python (40h), DataCamp
+- 🧠 Machine Learning e modelos preditivos
+- 🔄 Pipelines de dados e arquiteturas modernas
+
+## 📊 Estatísticas GitHub
+
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=andreschuenck&show_icons=true&theme=radical)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andreschuenck&layout=compact&theme=radical)
+
+## 📫 Vamos Conectar?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/andreschuenck/)
+- 📊 Portfólio: EM CONSTRUÇÃO
+- 📧 E-mail: [andreschuenck@email.com](mailto:andreschuenck@email.com)
 
 Se tiver sugestões, quiser colaborar ou trocar ideias sobre projetos, entre em contato! 🚀
 
-⚡ Curiosidades Sobre Mim: 
-- Além do mundo dos dados e tecnologia, também sou apaixonado por histórias épicas e desafios estratégicos. 📚🎲
+## ⚡ Curiosidades Sobre Mim
 
-![Visitor Count](https://profile-counter.glitch.me/andreschuenck/count.svg)
+Além do mundo dos dados e tecnologia, também sou apaixonado por histórias épicas e desafios estratégicos:
 
- 🏰 Leitor ávido de livros medievais e fantasia, sempre explorando mundos repletos de heróis, mistérios e batalhas épicas.
- 🎲 Jogador de D&D, porque nada como enfrentar dragões e desvendar masmorras para exercitar o pensamento estratégico!
- 🏎️ Fã de corridas, seja acompanhando competições ou sentindo a adrenalina da velocidade.
- 📖 Novels fazem parte do meu dia a dia, trazendo histórias imersivas e envolventes.
- 🐱 Tutor de três gatos, que dominam minha casa como verdadeiros reis felinos.
+- 🏰 Leitor ávido de livros medievais e fantasia, sempre explorando mundos repletos de heróis, mistérios e batalhas épicas
+- 🎲 Jogador de D&D, porque nada como enfrentar dragões e desvendar masmorras para exercitar o pensamento estratégico!
+- 🏎️ Fã de corridas, seja acompanhando competições ou sentindo a adrenalina da velocidade
+- 📖 Novels fazem parte do meu dia a dia, trazendo histórias imersivas e envolventes
+- 🐱 Tutor de três gatos, que dominam minha casa como verdadeiros reis felinos
 
- 
-![GIF](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
+---
 
--->
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=andreschuenck.andreschuenck)
