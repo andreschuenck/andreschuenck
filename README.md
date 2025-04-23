@@ -6,16 +6,23 @@
 
 ## 👋 Sobre Mim
 
-Profissional analítico com mais de 7 anos em otimização de processos e automação de dados, transformando informações complexas em soluções estratégicas. Desenvolvo dashboards, fluxos ETL e automatizações que eliminam trabalho manual e aumentam a eficiência operacional. Comunico conceitos técnicos com clareza com experiência em palestras e workshops para diversos públicos, aprendo rapidamente novas tecnologias, trabalho efetivamente em equipes multidisciplinares e contribuo como voluntário em projetos sociais.
+Profissional analítico com mais de 7 anos em otimização de processos e automação de dados, transformando informações complexas em insights acionáveis. Especialista em:
 
-Habilidades Comportamentais:
+- Desenvolvimento de dashboards interativos e fluxos ETL que eliminam trabalho manual
+- Criação de soluções que aumentam eficiência operacional e oferecem visibilidade estratégica
+- Comunicação clara de conceitos técnicos através de palestras e workshops
+- Adaptação rápida a novas tecnologias e metodologias
 
-Raciocínio lógico e pensamento analítico
-Comunicação eficaz de insights técnicos para públicos não-técnicos
-Trabalho em equipe multidisciplinar
-Adaptabilidade e rápido aprendizado
-Resolução de problemas complexos
-Tomada de decisão baseada em dados
+Além da atuação profissional, contribuo como voluntário em projetos sociais que impactam minha comunidade.
+
+## Habilidades Comportamentais
+
+- **Pensamento Analítico:** Decomponho problemas complexos em componentes gerenciáveis
+- **Comunicação Eficaz:** Traduzo dados técnicos em narrativas compreensíveis para diferentes públicos
+- **Colaboração:** Trabalho produtivamente em equipes multidisciplinares, integrando diferentes perspectivas
+- **Aprendizado Contínuo:** Absorvo rapidamente novas tecnologias e metodologias
+- **Resolução de Problemas:** Identifico gargalos e desenvolvo soluções escaláveis
+- **Tomada de Decisão:** Priorizo ações baseadas em evidências e análise de dados
 
 
 ## 🚀 Habilidades Técnicas
